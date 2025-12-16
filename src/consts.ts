@@ -100,6 +100,7 @@ export const projects: Project[] = [
     description:
       "Zed extension with converted React/Redux/React-Native snippets from the popular 'ES7+ React/Redux/React-Native snippets' VSCode extension. ",
     sourceHref: "https://github.com/shonebinu/zed-react-snippets",
+    liveHref: "https://zed.dev/extensions/react-snippets-es7",
   },
   {
     logoImage: PenweaveImage,
