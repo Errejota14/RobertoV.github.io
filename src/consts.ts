@@ -8,8 +8,12 @@ import PenweaveImage from "./assets/projects/penweave.png";
 import MGUScraperImage from "./assets/projects/mguscraper.png";
 import FlashifyImage from "./assets/projects/flashify.png";
 import WeatherifyImage from "./assets/projects/weatherify.png";
+import BriefImage from "./assets/projects/brief.svg";
+import PlaceholderImage from "./assets/projects/placeholder.svg";
 
 export const SITE_URL: string = "https://shonebinu.com";
+
+export const ENABLE_STARDUST_BG: boolean = false;
 
 export const meta = {
   about: {
@@ -41,7 +45,8 @@ export const footer: Footer = {
 
 export const about: About = {
   // parses html
-  headLine: "Hi, I'm <span class='fancy-highlight'>Shone Binu</span>",
+  headLine:
+    "Hi, I'm <span class='fancy-highlight font-black'>Shone Binu</span>",
   tagLine: "Software Engineer / Full Stack Developer",
   profilePic: ProfilePic,
   // parses html
@@ -79,6 +84,23 @@ export const about: About = {
 };
 
 export const projects: Project[] = [
+  {
+    logoImage: BriefImage,
+    title: "Brief",
+    techs: ["Python", "Gtk", "Linux", "Flatpak"],
+    description:
+      "Brief is a GTK4 application for browsing tldr-pages (community-maintained cmd line help pages). ",
+    sourceHref: "https://github.com/shonebinu/brief",
+    liveHref: "https://flathub.org/en/apps/io.github.shonebinu.Brief",
+  },
+  {
+    logoImage: PlaceholderImage,
+    title: "Zed React Snippets",
+    techs: ["Javascript"],
+    description:
+      "Zed extension with converted React/Redux/React-Native snippets from the popular 'ES7+ React/Redux/React-Native snippets' VSCode extension. ",
+    sourceHref: "https://github.com/shonebinu/zed-react-snippets",
+  },
   {
     logoImage: PenweaveImage,
     title: "Penweave",
