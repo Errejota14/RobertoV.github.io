@@ -8,7 +8,7 @@ import { SITE_URL } from "./src/consts.ts";
 
 // https://astro.build/config
 export default defineConfig({
-  site:  "https://RobertoV.github.io",
+  site: "https://RobertoV.github.io",
   integrations: [mdx(), sitemap()],
   vite: {
     plugins: [tailwindcss()],
