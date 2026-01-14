@@ -44,14 +44,12 @@ export const footer: Footer = {
 };
 
 export const about: About = {
-  // parses html
   headLine:
-    "Hi, I'm <span class='fancy-highlight font-black'>Shone Binu</span>",
-  tagLine: "Software Engineer / Full Stack Developer",
+    "Hola, soy <span class='fancy-highlight font-black'>Roberto Velasquez</span>",
+  tagLine: "Ingeniero Electrónico / Docente Universitario",
   profilePic: ProfilePic,
-  // parses html
   description:
-    "I’m a recent <u>Software Engineer</u> graduate from India 🇮🇳 who likes to keep tackling new problems. Currently, I’m working on the <u>React and Node.js</u> side of things. Outside of this, I work on improving myself in whatever I see fit.",
+    "Ingeniero Electrónico con experiencia en desarrollo y reparación de sistemas electrónicos a nivel de componentes, incluyendo microsoldadura y soldadura con cautín. Actualmente desempeño funciones en desarrollo electrónico y docencia universitaria, enfocado en la validación de sistemas y resolución de problemas técnicos. Experto en diseño de PCBs, programación de microcontroladores (Arduino, ESP32, STM32), integración hardware-software (PostgreSQL, FastAPI, Flask) y diseño 3D con SolidWorks para prototipos.",
   links: [
     // Lucide icons
     { icon: "Github", href: "https://github.com/shonebinu/" },
