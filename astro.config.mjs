@@ -6,7 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   site: "https://errejota14.github.io",
-  base: "/RobertoV.github.io",
+  base: "/RobertoV.github.io/",
   integrations: [mdx(), sitemap()],
   vite: {
     plugins: [tailwindcss()],
