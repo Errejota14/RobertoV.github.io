@@ -37,17 +37,13 @@ export const meta = {
 
 export const header: Header = { logoTitle: "SB" };
 
-export const footer: Footer = {
-  // parses html
-  content:
-    "Made with ❤️ by Shone Binu • <a href='https://github.com/shonebinu/portfolio' class='link'>Source Code</a>",
-};
+
 
 export const about: About = {
   headLine:
     "Hola, soy <span class='fancy-highlight font-black'>Roberto Velasquez</span>",
 
-  tagLine: "Ingeniero Electrónico / Docente Universitario",
+  tagLine: "Ingeniero Electrónico",
 
   profilePic: ProfilePic,
 
@@ -55,16 +51,16 @@ export const about: About = {
     "Ingeniero Electrónico con experiencia en desarrollo y reparación de sistemas electrónicos a nivel de componentes, incluyendo microsoldadura y soldadura con cautín. Actualmente me desempeño en desarrollo electrónico y docencia universitaria, enfocado en la validación de sistemas y resolución de problemas técnicos. Experto en diseño de PCB, programación de microcontroladores (Arduino, ESP32, STM32) e integración hardware-software mediante PostgreSQL, FastAPI y Flask.",
 
   links: [
-    { icon: "Github", href: "https://github.com/errejota14" },
-    { icon: "Linkedin", href: "https://www.linkedin.com/in/roberto-velasquez" },
+    { icon: "Github", href: "https://github.com/Errejota14" },
+    { icon: "Linkedin", href: "www.linkedin.com/in/roberto-velasquez3035" },
   ],
 
   resumeHref:
-    "https://drive.google.com/file/d/TU_LINK_DE_CV_AQUI/view",
+    "https://drive.google.com/file/d/1rQQkr899ncNtkpyftp55BIcZmvvjv6j6/view?usp=sharing",
 
   workExperience: [
     {
-      title: "Ingeniero Electrónico / Desarrollo Electrónico",
+      title: "Desarrollo Electrónico",
       timeline: "Agosto 2022 - Presente",
       company: "Sistemas Tecnológicos Alcaraván",
       description:
