@@ -84,7 +84,7 @@ export const about: About = {
   ],
 
   getInTouch:
-    "Puedes contactarme vía correo en <a href='mailto:robertoj3055@gmail.com' class='primary-underline'>tucorreo@email.com</a> o a través de mis redes profesionales.",
+    "Puedes contactarme vía correo en <a href='mailto:robertoj3055@gmail.com' class='primary-underline'>robertoj3055@gmail.com</a> o a través de mis redes profesionales.",
 };
 
 
