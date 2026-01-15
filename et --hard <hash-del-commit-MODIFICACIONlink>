@@ -1,0 +1,87 @@
+[33mb347d9a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Deploy dist
+[33m16787f9[m Burbuja
+[33m876d4ec[m Update README.md
+[33m5018d56[m MODIFICACIONlink
+[33m5528065[m MODIFICACION2
+[33m731135f[m MODIFICACION
+[33m7d0fc99[m TRADUCCION2
+[33mb964ef8[m TRADUCCION
+[33m1ce8218[m Fix navigation links using BASE_URL for GitHub Pages
+[33m093af8a[m Actualiza descripción de perfil
+[33m427e7f7[m Actualiza foto de perfil
+[33m23f5b19[m Fix base path and rebuild
+[33m9fa3e73[m Configura base para GitHub Pages
+[33m64b3cb2[m Corrige site URL y configura Astro para GitHub Pages
+[33m36504a0[m add deploy configuration
+[33m96a0532[m Update astro.config.mjs
+[33mc84b0b8[m choreee
+[33m2f3b266[m new article
+[33mfe7ca45[m update brief icon
+[33md87d799[m formattin
+[33m789fa03[m add new aticle
+[33m8cf432c[m add new aticle
+[33m899a713[m chore: update link
+[33m0a63b74[m update zed extension live url
+[33mf271711[m add brief and zed snippets
+[33m787e6b0[m chore: update deps
+[33mcc3eccb[m update project url
+[33me13e031[m minor chore
+[33m52c882a[m add new blog
+[33m58dc763[m new blog
+[33m5a7a6b5[m update blog
+[33m06977c8[m new blog
+[33mc6dc0ad[m chore
+[33m8547a8e[m change shiki theme
+[33m7121415[m change shiki theme
+[33m13433cf[m Update portfolio screenshot in README
+[33maf381ea[m add star dust back, ik im dumb
+[33m0d05ea5[m update post
+[33mc74b411[m update post
+[33m5e87735[m update post
+[33mfbc4383[m new post
+[33m5e7c933[m change padding
+[33mdd1be08[m Fix image source and enhance README content
+[33m33d194d[m remove stardust
+[33m48ae87d[m updates
+[33m1f05897[m new blog post
+[33m82e7db2[m Update README to simplify customization instructions
+[33m5898111[m blog post update
+[33m22b7c95[m Revise README for Portfolio Website
+[33m29487ff[m style changes
+[33m92e5c9a[m change consts
+[33m908fd4e[m change favicon
+[33macafccb[m change project images to logo
+[33m78ee605[m first article update
+[33m9f8f456[m first article
+[33m0fc3402[m update data
+[33m2c70366[m extract consts
+[33m1379018[m change works to projects
+[33md86fa06[m change font to inter
+[33mb68fa88[m some aesthetic changes
+[33m166a79e[m change theme switcher style
+[33mbcce05b[m suit style for large screen
+[33mc2a04db[m add fonts
+[33mbd96a75[m add label for theme switcer
+[33m8e2ef59[m remove google fonts and use system fonts
+[33m0ecda60[m change rss url
+[33m4f3873a[m add robots.txt
+[33mf3237a7[m remove mono font to reduce page load;
+[33m7bcc58b[m add site url
+[33mf9d9fce[m initial commit
+[33md7f6c0a[m empty branch
+[33m3b3b405[m limit the entires of blog posts in index
+[33m3a99845[m new post
+[33m1883e2d[m add college curriculum project
+[33mbedd11c[m rectify typo
+[33m8727989[m resize images
+[33m3e9ca85[m add netlify integration
+[33m466f7d0[m implement cloudflare integration
+[33m3736985[m remove netlify integration
+[33me93df16[m remove git deploy
+[33mb7bb9a0[m initialize portfolio
+[33m88fe2c2[m removing posts
+[33mc11d3f0[m trying to add posts
+[33m6402ae0[m Create README.md
+[33m8f39f1e[m Delete README.md
+[33mc8c45fd[m Create index.html
+[33m3abacc6[m Initial commit

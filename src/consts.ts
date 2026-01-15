@@ -17,22 +17,17 @@ export const ENABLE_STARDUST_BG: boolean = false;
 
 export const meta = {
   about: {
-    // index page
-    title: "Shone Binu",
-    description:
-      "Hi, I'm Shone Binu, a software engineer. Welcome to my little corner of the internet!",
+    title: "Roberto Velasquez", // ← cambia aquí
+    description: "Ingeniero Electrónico con experiencia en desarrollo..."
   },
   projects: {
-    title: "Projects | Shone Binu",
-    description:
-      "Here are some of my projects — things I’ve built, experimented with, and had fun creating.",
+    title: "Proyectos | Roberto Velasquez",
+    description: "Aquí están algunos de mis proyectos..."
   },
   blog: {
-    title: "Blog | Shone Binu",
-    description:
-      "This is my blog — a place where I share thoughts, ideas, and things I’m learning along the way.",
+    title: "Blog | Roberto Velasquez",
+    description: "Mi blog donde comparto ideas y aprendizajes."
   },
-  // blog post title and description are taken from the variables in markdown file
 };
 
 export const header: Header = { logoTitle: "SB" };
