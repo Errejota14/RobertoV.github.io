@@ -46,40 +46,47 @@ export const footer: Footer = {
 export const about: About = {
   headLine:
     "Hola, soy <span class='fancy-highlight font-black'>Roberto Velasquez</span>",
+
   tagLine: "Ingeniero Electrónico / Docente Universitario",
+
   profilePic: ProfilePic,
+
   description:
-    "Ingeniero Electrónico con experiencia en desarrollo y reparación de sistemas electrónicos a nivel de componentes, incluyendo microsoldadura y soldadura con cautín. Actualmente desempeño funciones en desarrollo electrónico y docencia universitaria, enfocado en la validación de sistemas y resolución de problemas técnicos. Experto en diseño de PCBs, programación de microcontroladores (Arduino, ESP32, STM32), integración hardware-software (PostgreSQL, FastAPI, Flask) y diseño 3D con SolidWorks para prototipos.",
+    "Ingeniero Electrónico con experiencia en desarrollo y reparación de sistemas electrónicos a nivel de componentes, incluyendo microsoldadura y soldadura con cautín. Actualmente me desempeño en desarrollo electrónico y docencia universitaria, enfocado en la validación de sistemas y resolución de problemas técnicos. Experto en diseño de PCB, programación de microcontroladores (Arduino, ESP32, STM32) e integración hardware-software mediante PostgreSQL, FastAPI y Flask.",
+
   links: [
-    // Lucide icons
-    { icon: "Github", href: "https://github.com/shonebinu/" },
-    { icon: "Linkedin", href: "https://www.linkedin.com/in/shonebinu/" },
-    { icon: "Youtube", href: "https://www.youtube.com/@shone_binu" },
+    { icon: "Github", href: "https://github.com/errejota14" },
+    { icon: "Linkedin", href: "https://www.linkedin.com/in/roberto-velasquez" },
   ],
+
   resumeHref:
-    "https://drive.google.com/file/d/10dfGCIiX2b7Wf-Lj51ypt3UHgPiPQ3ZV/view?usp=sharing",
+    "https://drive.google.com/file/d/TU_LINK_DE_CV_AQUI/view",
+
   workExperience: [
     {
-      title: "Full Stack Developer Intern",
-      timeline: "May 2024 - Oct 2024",
-      company: "Rabbitsquare • India",
+      title: "Ingeniero Electrónico / Desarrollo Electrónico",
+      timeline: "Agosto 2022 - Presente",
+      company: "Sistemas Tecnológicos Alcaraván",
       description:
-        "Developed a LAMP stack web solution for a Civil Service academy, including a customizable public website, management portal, user portal, and exam result publishing system.",
+        "Desarrollo de prototipos electrónicos y soluciones integrales, desde el diseño de PCBs hasta la programación de microcontroladores e integración con aplicaciones web. Participación en producción, pruebas finales y control de calidad de tarjetas electrónicas.",
     },
   ],
+
   education: [
     {
-      title: "Bachelor of Computer Application",
-      timeline: "Jun 2022 - Apr 2025",
-      institution: "Nirmala College Muvattupuzha • India",
+      title: "Ingeniero Electrónico",
+      timeline: "2017 - 2023",
+      institution:
+        "Universidad Nacional Experimental Politécnica de la Fuerza Armada (UNEFA)",
       description:
-        "Studied core computer science fundamentals including programming languages, data structures, algorithms, operating systems, and networking, with practical experience in Java, C/C++, JavaScript, PHP, and Linux.",
+        "Formación en electrónica analógica y digital, sistemas embebidos, diseño de PCB y programación de microcontroladores.",
     },
   ],
-  // parses html
+
   getInTouch:
-    "Drop me an email at <a href='mailto:mail@shonebinu.com' class='primary-underline'>mail@shonebinu.com</a> or connect with me on one of my socials.",
+    "Puedes contactarme vía correo en <a href='mailto:robertoj3055@gmail.com' class='primary-underline'>tucorreo@email.com</a> o a través de mis redes profesionales.",
 };
+
 
 export const projects: Project[] = [
   {
