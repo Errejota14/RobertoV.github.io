@@ -3,10 +3,11 @@ import ThemeSwitch from "./ThemeSwitch.astro";
 import { header } from "../consts.ts";
 
 const navItems = [
-  { href: "/", label: "About" },
-  { href: "/projects", label: "Projects" },
-  { href: "/blog", label: "Blog" },
+  { href: import.meta.env.BASE_URL, label: "About" },
+  { href: `${import.meta.env.BASE_URL}projects`, label: "Projects" },
+  { href: `${import.meta.env.BASE_URL}blog`, label: "Blog" },
 ];
+
 
 const pathname = Astro.url.pathname.replace(import.meta.env.BASE_URL, "");
 const subpath = pathname.match(/[^\/]+/g);
