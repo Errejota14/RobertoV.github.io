@@ -37,7 +37,10 @@ export const meta = {
 
 export const header: Header = { logoTitle: "SB" };
 
-
+export const footer = {
+  content:
+    "Hecho con ❤️ por Roberto Velasquez • <a href='https://github.com/Errejota14/RobertoV.github.io' class='link'>Código Fuente</a>",
+};
 
 export const about: About = {
   headLine:
